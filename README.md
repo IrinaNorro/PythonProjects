@@ -4,7 +4,7 @@
 Picture Source:https://uk.pcmag.com/gadgets/75299/nerd-alert-7-iconic-calculators-of-yore
 
 
-### Prerequisites
+## Prerequisites
 Python IDE installed, for eg. PyCharm. 
 
 ## Simple Pocket Calculator
