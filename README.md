@@ -5,13 +5,19 @@ Picture Source:https://uk.pcmag.com/gadgets/75299/nerd-alert-7-iconic-calculator
 
 
 ## Prerequisites
-Python IDE installed, for eg. PyCharm. 
+- Python IDE installed, for eg. PyCharm. 
+- Internet connection
 
 ## Simple Pocket Calculator
 User enters two numbers to be counted. Calculates decimals, sum, substraction, multiplication and division.
 
-### Things to improve
+Things to improve
 - Taking into account division by 0.
+
+## Tip Calculator
+This calculator counts amount for each person to pay for a restaurant bill, taking into account how many people are splitting the bill and 
+percentage of the tip (10, 12 or 15)
+https://replit.com/@Irina-NicoleNic/tip-calculator-start#main.py
 
 
 
