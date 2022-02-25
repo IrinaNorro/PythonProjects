@@ -21,3 +21,6 @@ taking into account how many people are splitting the bill and percentage of the
 In this project you can calculate price of ordered pizza according to pizza size (S, M or L) and 
 if you want to add pepperoni (+$2 for S size pizza and $3 for M or L size) or extra cheese (+$1 for all sizes).
 
+## Treasure Island - Game
+[Treasure Island](https://replit.com/@Irina-NicoleNic/treasure-island-start-1#main.py) is "Choose your own Adventure" game. Story evolves by the choises you make. 
+Have fun with this one!
