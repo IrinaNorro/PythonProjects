@@ -24,3 +24,8 @@ if you want to add pepperoni (+$2 for S size pizza and $3 for M or L size) or ex
 ## Treasure Island - Game
 [Treasure Island](https://replit.com/@Irina-NicoleNic/treasure-island-start-1#main.py) is "Choose your own Adventure" game. Story evolves by the choises you make. 
 Have fun with this one!
+
+## Rock Paper Scissors - Game
+[Rock Paper Scissors](https://replit.com/@Irina-NicoleNic/rock-paper-scissors-start#main.py) is a fun game that you can play against a computer.
+#### Things to improve
+- Try catch for non numeric user input.
