@@ -29,3 +29,8 @@ Have fun with this one!
 [Rock Paper Scissors](https://replit.com/@Irina-NicoleNic/rock-paper-scissors-start#main.py) is a fun game that you can play against a computer.
 #### Things to improve
 - Try catch for non numeric user input.
+
+## Notebook
+This program is your small simple Notebook. Here you can add notes, read your notes and empty Notebook.
+#### Things to improve
+- One can also add other features, add pictures, delete single notes, choose bold, italic or underlined for chosen text etc.
