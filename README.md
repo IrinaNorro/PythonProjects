@@ -34,3 +34,8 @@ Have fun with this one!
 This program is your small simple Notebook. Here you can add notes, read your notes and empty Notebook.
 #### Things to improve
 - One can also add other features, add pictures, delete single notes, choose bold, italic or underlined for chosen text etc.
+
+## Notebook.2
+This is a small Notebook, that adds, edites, erases notes in .dat file. 
+#### Covers following:
+- Pickle Module, Time Module, File Handling, For Loops, While Loops, If..Else Condition statements, Try..Except Exception handling. 
