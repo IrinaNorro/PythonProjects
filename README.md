@@ -43,4 +43,4 @@ This is a small Notebook, that adds, edites, erases notes in .dat file.
 ## Password Generator
 [Password Generator](https://replit.com/@Irina-NicoleNic/password-generator-start#main.py) generates password from lists of numbers, letters and symbols. Amount of character to be used for each list is given by user. 
 #### Covers following:
--Randomization, lists
+- Randomization, lists
