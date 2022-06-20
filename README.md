@@ -1,8 +1,5 @@
 # In this directory we will find small Python projects.
 
-![calculator](https://user-images.githubusercontent.com/80334153/155100040-1b1c7b44-06d3-4c79-af4a-f7ab5dac35d9.PNG)
-[Picture Source](https://uk.pcmag.com/gadgets/75299/nerd-alert-7-iconic-calculators-of-yore)
-
 ## Prerequisites
 - Python IDE installed, for eg. PyCharm. 
 - Internet connection
@@ -44,3 +41,10 @@ This is a small Notebook, that adds, edites, erases notes in .dat file.
 [Password Generator](https://replit.com/@Irina-NicoleNic/password-generator-start#main.py) generates password from lists of numbers, letters and symbols. Amount of character to be used for each list is given by user. 
 #### Covers following:
 - Randomization, lists
+
+## Hangman
+This is a classic game, where guessing word is generated from a file, the user gets to guess letters one by one and if guessed wrong program draws a hangman, after 6 tries game is over and hangman is hung. 
+#### Prerequisites
+Add replit package to PyCharm. Then go to Run/ Edit Configuration -> put a tick to "Emulate terminal in output console".
+#### Covers following:
+Importing variables and fuctions from files, randomization, while loop, for loop, if statements.
