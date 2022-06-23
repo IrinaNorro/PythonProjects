@@ -48,3 +48,8 @@ This is a classic game, where guessing word is generated from a file, the user g
 Add replit package to PyCharm. Then go to Run/ Edit Configuration -> put a tick to "Emulate terminal in output console".
 #### Covers following:
 Importing variables and fuctions from files, randomization, while loop, for loop, if statements.
+
+## Secret Auction
+Imagine you are in auction and really want to bid the highest bid for that thing you desire. In this program bidders make their bids, and in the end we will see who wins. 
+#### Covers following:
+Dictionaries, while loop, for loop, if statements, functions
