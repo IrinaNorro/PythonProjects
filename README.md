@@ -53,3 +53,8 @@ Add replit package to PyCharm. Then go to Run/ Edit Configuration -> put a tick 
 Imagine you are in auction and really want to bid the highest bid for that thing you desire. In this program bidders make their bids, and in the end we will see who wins. 
 #### Covers following:
 - Dictionaries, while loop, for loop, if statements, functions
+
+## Advanced Calculatro
+Does basically the same thing as pocket calculator, and allows user to continue calculating with first result.  
+#### Covers following:
+- Dictionaries, while loop, for loop, if statements, functions, also added try except for division by zero.
