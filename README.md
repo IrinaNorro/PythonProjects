@@ -54,7 +54,7 @@ Imagine you are in auction and really want to bid the highest bid for that thing
 #### Covers following:
 - Dictionaries, while loop, for loop, if statements, functions
 
-## Advanced Calculatro
-Does basically the same thing as pocket calculator, and allows user to continue calculating with first result.  
+## Advanced Calculator
+Does basically the same thing as pocket calculator, and also allows user to continue calculating with first result.  
 #### Covers following:
 - Dictionaries, while loop, for loop, if statements, functions, also added try except for division by zero.
