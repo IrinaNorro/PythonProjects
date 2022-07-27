@@ -58,3 +58,8 @@ Imagine you are in auction and really want to bid the highest bid for that thing
 Does basically the same thing as pocket calculator, and also allows user to continue calculating with first result.  
 #### Covers following:
 - Dictionaries, while loop, for loop, if statements, functions, also added try except for division by zero.
+
+## Game of BlackJack
+This is a legendary card game, known also as 21. You are given two cards, you'll see dealer's first card and you aim to gain in total of 21 and beat the dealer. 
+#### Covers following:
+- While and for loops, if statements, functions, randomization, list and try except. 
