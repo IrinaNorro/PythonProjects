@@ -75,4 +75,9 @@ In this game you can guess which of two options is more popular. Gamer retrieves
 - While loop, if statements, randomization, functions (passing on arguments)
 
 ## Program using MONGO DB
-This program creates a database in MNongoDB, creates one collection, asks user for data to be added to collection, adds data. In quiry prints all data and data using one attribute from collection. 
+This program creates a database in MongoDB, creates one collection, asks user for data to be added to collection, adds data. In quiry prints all data and data using one attribute from collection. 
+
+#### Learned following
+- How to use Mongo DB Compass and add information in GUI
+- Create content for database and make simple quiries in Python
+- Also familiar with creating databases, collections and documents in Command Prompt
