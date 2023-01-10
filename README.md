@@ -75,7 +75,7 @@ In this game you can guess which of two options is more popular. Gamer retrieves
 - While loop, if statements, randomization, functions (passing on arguments)
 
 ## Program using MONGO DB
-This program creates a database in MongoDB, creates one collection, asks user for data to be added to collection, adds data. In quiry prints all data and data using one attribute from collection. 
+This program stores data of candidates in municipal election in Mongo DB database. Program creates a database in MongoDB, creates one collection, asks user for data to be added to collection, adds data. In quiry prints all data and data using one attribute from collection. Code documentation in Finnish.
 
 #### Learned following
 - How to use Mongo DB Compass and add information in GUI
